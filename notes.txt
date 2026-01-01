@@ -1,1 +1,1 @@
-This file is created for Git version control practice.
+Bug fixed in documentation.
